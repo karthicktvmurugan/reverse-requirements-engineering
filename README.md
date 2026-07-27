@@ -1,2 +1,2 @@
 # reverse-requirements-engineering
-This skill/ prompt guides the AI agent to infer the business intent from the code in a structured approach. The skill is heavily governed to ensure hallucination is prevented at each step, and any human review is cascaded to all artefacts produced. The skill is agnostic of AI agent.
+This skill guides AI agents to infer business intent from code through a structured approach. The framework is heavily governed to prevent hallucination at every step, ensuring human feedback is automatically cascaded across all generated artefacts and tracebility is enforced at every step. The skill is AI agent-agnostic.
