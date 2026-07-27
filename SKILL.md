@@ -3,7 +3,7 @@ name: reverse-requirements-engineering
 description: Analyse one or more codebases and progressively reverse-engineer business-facing artefacts — from discovery through to traceable acceptance criteria. Supports new team onboarding, legacy modernisation, test strategy development, team handovers, and feature impact assessment where documentation does not exist.
 license: MIT
 metadata:
-  author: custom
+  author: karthicktvmurugan
   version: "5.0"
 ---
 
