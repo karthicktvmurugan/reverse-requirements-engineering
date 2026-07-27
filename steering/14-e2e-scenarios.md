@@ -35,7 +35,7 @@ Steps must be ordered as a **realistic test simulation sequence** — a tester s
 - Steps represent the order a user/tester would execute them, NOT just a logical dependency graph.
 - Where steps can happen in any order, pick a valid simulation order and note the flexibility in a "Step Ordering Notes" section.
 - Respect system constraints (e.g., if action X requires status Y, ensure a prior step achieves status Y).
-- Clearly mark which actor (user, external system, or PEXA system) performs each step.
+- Clearly mark which actor (user, external system, or internal system) performs each step.
 
 For each step in the E2E scenario:
 
