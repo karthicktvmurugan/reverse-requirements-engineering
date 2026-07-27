@@ -91,7 +91,7 @@ cp -r * ~/.kiro/skills/reverse-requirements-engineering/
 Run via Kiro agent prompt or command: /reverse-requirements-engineering or "Run the reverse requirements engineering skill on this repo."
 
 ### 2. Claude Code/ Cursor/ other agents
-Place the skill files in your project or global skills folder, and the run by invoking the skill name.
+Place the skill files (skill.md and steering folder) in your project or global skills folder, and the run by invoking the skill name.
 
 ## 🛠️ How It Works (Agent Execution)
 **Workspace Setup:** The agent checks .progress.json or asks how you wish to organize the output (artefacts/{folder-name}/).
